@@ -38,9 +38,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pRebollo02&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pRebollo02&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=pRebollo02&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-profile-trophy.vercel.app/?username=pRebollo02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pRebollo02&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=pRebollo02&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=pRebollo02&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/p_rebollo/) 
